@@ -1,0 +1,13 @@
+{
+  "name": "lista2-2",
+  "version": "1.0.0",
+  "description": "lista de exercício 2",
+  "main": "lista2-2.html",
+  "scripts": {
+  },
+  "keywords": [
+    "teste"
+  ],
+  "author": "diana",
+  "license": "ISC"
+}

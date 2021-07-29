@@ -1,0 +1,13 @@
+{
+  "name": "desafio-imagem",
+  "version": "1.0.0",
+  "description": "desafio adicionar imagem usando html",
+  "main": "desafio-imagem.html",
+  "scripts": {
+  },
+  "keywords": [
+    "imagem"
+  ],
+  "author": "diana",
+  "license": "ISC"
+}
